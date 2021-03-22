@@ -1,0 +1,37 @@
+main {
+    display: flex;
+}
+
+img{
+    max-width: 70%;
+}
+
+.info {
+    width: 20%;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    text-align: center;
+    border-right: 1px solid #ccc;
+}
+
+.info img{
+    border-radius: 70%;
+}
+
+.curriculo {
+    width: 100%;
+    padding: 30px;
+}
+
+footer {
+  background-color: #333;
+    padding: 10px 0;
+    text-align: center;
+    color:#fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+}
